@@ -1,2 +1,7 @@
 *.log
 *.img
+*.obj
+*.map
+*.bin
+*.lst
+haribote.sys
